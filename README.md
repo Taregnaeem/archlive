@@ -16,7 +16,7 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 **1** : Latest Dec 17, 2018 Updated <br />
 **2** : Boots in just NN seconds <br />
 **3** : Plymouth installed <br />
-**4** : xorg/xserver installed
+**4** : xorg/xserver installed <br />
 **5** : lightdm/[lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) as Display Manager <br />
 **6** : i3-gaps(highly configured, as can be seen) Window Manager <br />
 **7** : [Polybar](https://github.com/jaagr/polybar) as Panel <br />
