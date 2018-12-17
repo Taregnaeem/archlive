@@ -15,7 +15,7 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 **1** : Latest Dec 17, 2018 Updated <br />
 **2** : Boots in just NN seconds <br />
-**3** : Plymouth installed <br />
+**3** : Plymouth installed / Arch-charge theme<br />
 **4** : xorg/xserver installed <br />
 **5** : lightdm/[lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) as Display Manager <br />
 **6** : i3-gaps(highly configured, as can be seen) Window Manager <br />
@@ -112,7 +112,7 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/TTY.png) <br />
 
-**More Screenshots** : [Here](https://github.com/adi1090x/my_dotfiles/tree/master/previews/i3_wm), Like What else you can make it.
+**More Screenshots** : [Here](https://github.com/adi1090x/my_dotfiles/tree/master/previews/i3_wm), Like What else you can make it, Like Mine Old Portable Hacking Machine, LOL! 
 
 ## Naming My OS
 
