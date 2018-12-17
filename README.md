@@ -3,7 +3,7 @@
 # Introduction
 
 Yeah, the weekend was pretty borring... So i grabbed the arch iso and started doing... my stuff. <br />
-As Result, i'm writing here the intro, like exactly what happend... i ended up creating a live arch based custom linux distro, which is really awesome... (just appreciating myself :p) <br />
+As Result, i'm writing here the intro, like exactly what happend... i ended up creating a Arch based custom live linux distro, which is really awesome... (just appreciating myself 😜) <br />
 
 Here's how it looks... [familiar](https://github.com/adi1090x/my_dotfiles/tree/master/previews/i3_wm), Right?... YES! But Now in an ISO, Live, For Everyone. <br />
 
@@ -13,21 +13,21 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 ## Features
 
-**1** : Latest Dec 17, 2018 Updated <br />
-**2** : Boots in just NN seconds <br />
+**1** : Latest December 17, 2018 updated <br />
+**2** : Boots to desktop in just 20 seconds <br />
 **3** : Plymouth installed / Arch-charge theme<br />
 **4** : xorg/xserver installed <br />
 **5** : lightdm/[lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) as Display Manager <br />
-**6** : i3-gaps(highly configured, as can be seen) Window Manager <br />
+**6** : i3-gaps (highly configured, as can be seen) Window Manager <br />
 **7** : [Polybar](https://github.com/jaagr/polybar) as Panel <br />
-**8** : Compton as Composite Manager <br />
+**8** : Compton as Compositing Manager <br />
 **9** : [Rofi](https://github.com/DaveDavenport/rofi) For Menus & Networks <br />
 **10** : Network Manager with [networkmanager_dmenu](https://github.com/firecat53/networkmanager-dmenu) installed and configured <br />
 **11** : [yay](https://github.com/Jguer/yay) installed for AUR packages <br />
 **12** : zsh with [ohmyzsh](https://github.com/robbyrussell/oh-my-zsh) latest <br />
 **13** : vim with [vim_runtime](https://github.com/amix/vimrc) latest <br />
 **14** : [eDEX-UI](https://github.com/GitSquared/edex-ui) Added <br />
-**15** : Latest firefox for web <br />
+**15** : Latest firefox for web browsing <br />
 **16** : Full audio support with pulseaudio/alsa <br />
 **17** : mpd, mpc, ncmpcpp, mplayer for media services (configured, ncmpcpp with album art support) <br />
 **18** : termite, urxvt(compiled with pixbuf), xfce4-terminal as terminals <br />
@@ -116,18 +116,18 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 ## Naming My OS
 
-Such A PITA... So, first i though - "ARCH3", coz it's arch and use i3 as WM... NO!!! coz i is missing... <br />
+Such A Pain __ __ #@$$... So, first i though - "ARCH3", coz it's arch and use i3 as WM... NO!!! coz i is missing... <br />
 
 Alright, How about - "Archy", Coz arch+i = archy... NO!!! Weird. <br />
 
-Whatever... it's just *"ARCHLIVE"*
+Whatever... it's just *"ARCHLIVE"* <br />
 
 ## Few Points
 
-- As it says *"LIVE"*... which means it can only run live (at least for now) coz i did not made any installer for it yet.
-- You need to read the i3 configs to fully operate it, like keybindings, windows tiling, etc.
-- You may need to modify polybar configs, like The BAT0 to BAT1 / wlan0 to wlp3s0... stuff like that.
-- I built it on a machine with intel pentium cpu & intel HD gpu so it have the intel video drivers.
-- There is only one person behind all this- ME, So appreciate it. it maybe not perfect or may not run on your machine.
-- This OS may not be for people who are beginners to linux, however i tried my best to make it simple and easy.
-- Well, That's it for now... try it, have fun.
+- As it says *"LIVE"*... which means it can only run live (at least for now) coz i did not made any installer for it yet. <br />
+- You need to read the i3 configs to fully operate it, like keybindings, windows tiling, etc. <br />
+- You may need to modify polybar configs, like The BAT0 to BAT1 / wlan0 to wlp3s0... stuff like that. <br />
+- I built it on a machine with intel pentium cpu & intel HD gpu so it have the intel video drivers. <br />
+- There is only one person behind all this- ME, So appreciate it. it maybe not perfect or may not run on your machine. <br />
+- This OS may not be for people who are beginners to linux, however i tried my best to make it simple and easy. <br />
+- Well, That's it for now... try it, have fun. <br />
