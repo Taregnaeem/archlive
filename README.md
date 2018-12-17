@@ -122,6 +122,7 @@ Whatever... it's just *"ARCHLIVE"*
 
 ## Few Points
 
+- As it says "LIVE"... which means it can only run live (at least for now) coz i did not made any installer for it yet.
 - You need to learn the i3 configs to fully operate it, like keybindings, windows tiling, etc.
 - You may need to modify polybar configs, like The BAT0 to BAT1 / wlan0 to wlp3s0... stuff like that.
 - I built it on a machine with intel pentium cpu & intel HD gpu so it have the intel video drivers.
