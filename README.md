@@ -72,50 +72,43 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 ![FM](https://raw.githubusercontent.com/adi1090x/archlive/master/images/FM.png) <br />
 
-**** : 
+**vim & mcedit** : vim editor with vim_runtime configs & mcedit.
 
-![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Docs.png) <br />
+![Docs](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Docs.png) <br />
 
-**** : 
+**Notifications** : Dunst for notifications, volume & brightness notifications. 
 
-![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Dunst_Vol.png) <br />
+![Dunst](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Dunst_Vol.png) <br />
 
-**** : 
+![Dunst-alt](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Dunst_BL.png) <br />
 
-![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Dunst_BL.png) <br />
+**eDEX_UI** : i love sci-fi stuff & that's a good one. so i included it in the iso with it's own workspace.
 
-**** : 
+![eDEX_UI_W](https://raw.githubusercontent.com/adi1090x/archlive/master/images/eDEX_W.png) <br />
 
-![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/eDEX_W.png) <br />
+![eDEX_UI](https://raw.githubusercontent.com/adi1090x/archlive/master/images/eDEX.png) <br />
 
-**** :
+**Networks** : networkmanager_dmenu for wifi and earthnet connections, configured. 
 
-![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/eDEX.png) <br />
+![Net](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Net.png) <br />
 
-**** : 
+**Monitor** : htop, gtop, nmon, bmon, etc programs for monitoring processes and other stuff with own workspace. 
 
-![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Lab_1.png) <br />
+![Mon](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Mon.png) <br />
 
-**** : 
+**Power Menu** : Just Simple Power menu, i3-lock-fancy as lockscreen.
 
-![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Net.png) <br />
+![System](https://raw.githubusercontent.com/adi1090x/archlive/master/images/System.png) <br />
 
-**** : 
+**i3 Tiling** : i3 tiling with gaps, programs - vim, ranger, cmatrix, pipes. 
 
-![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Mon.png) <br />
+![Tile](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Tiles.png) <br />
 
-**** : 
+**Lab Workspace** : Just Stuff, tux, nmon, bmon
 
-![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/System.png) <br />
+![Lab](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Lab_1.png) <br />
 
-**** : 
-
-![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Tiles.png) <br />
-
-**** : 
+**TTY Workspace** : Terminals - neofetch, cmatrix, pipes, color_panes, htop, gtop 
 
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/TTY.png) <br />
 
-**** : 
-
-![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/.png) <br />
