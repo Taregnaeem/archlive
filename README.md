@@ -36,6 +36,10 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 **21** : Basic Programs like... vim, ranger, mc/mcedit, htop, gtop, bmon, nmon, neofetch... etc-etc <br />
 **22** : Many More... I Don't even remember now, Just Try It Yourself... <br />
 
+# Download
+
+![download](https://raw.githubusercontent.com/adi1090x/archlive/master/images/download.png) <br />
+
 # TOUR
 
 **Appearance Overview**
