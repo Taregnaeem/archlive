@@ -112,6 +112,8 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/TTY.png) <br />
 
+**More Screenshots** : [Here](https://github.com/adi1090x/my_dotfiles/tree/master/previews/i3_wm), Like What else you can make it.
+
 ## Naming My OS
 
 Such A PITA... So, first i though - "ARCH3", coz it's arch and use i3 as WM... NO!!! coz i is missing... <br />
