@@ -38,10 +38,12 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 # TOUR
 
-**Desktop** : That's the default desktop. it's i3-gaps WM with polybar and compton as compositing manager. <br />
+## Desktop
 
-Polybar >> TOP - Arch icon (menu), i3-Workspace, skippy-xd, keyboard, battery, volume, network, clock, powermenu <br />
-        >> BOTTOM - mpd, filesystem, cpu, memory, temperature, packages updates, net speed, ssid, volume bar, brightness bar <br />
+That's the default desktop. it's i3-gaps WM with polybar and compton as compositing manager. <br />
+
+**Polybar - TOP >** Arch icon (menu), i3-Workspace, skippy-xd, keyboard, battery, volume, network, clock, powermenu <br />
+**Polybar - BOTTOM >** mpd, filesystem, cpu, memory, temperature, packages updates, net speed, ssid, volume bar, brightness bar <br />
 
 ![Desktop](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Desktop.png) <br />
 
