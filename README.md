@@ -38,6 +38,15 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 # TOUR
 
+**Appearance Overview**
+
+- Gtk Theme : [Adapta-Nokto-Eta](https://github.com/adapta-project/adapta-gtk-theme) <br />
+- Icon Pack : [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) <br />
+- Bars : [Polybar](https://github.com/jaagr/polybar) <br />
+- Fonts : [Siji](https://github.com/stark/siji) & Termsyn <br />
+- Wallpaper : [Dark-Material](https://github.com/adi1090x/my_dotfiles/blob/master/.backgrounds/dark_material.png) <br />
+
+
 **Desktop** : That's the default desktop. it's i3-gaps WM with polybar and compton as compositing manager. <br />
 
 *Polybar - TOP >* Arch icon (menu), i3-Workspace, skippy-xd, keyboard, battery, volume, network, clock, powermenu. <br />
@@ -55,33 +64,58 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 ![Web](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Web.png) <br />
 
+**Media** : Running Mplayer, mpd/ncmpcpp with album art support. 
+
 ![Media](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Media.png) <br />
+
+**File Manager** : Running Thunar and Geany. 
+
+![FM](https://raw.githubusercontent.com/adi1090x/archlive/master/images/FM.png) <br />
+
+**** : 
 
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Docs.png) <br />
 
+**** : 
+
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Dunst_Vol.png) <br />
+
+**** : 
 
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Dunst_BL.png) <br />
 
+**** : 
+
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/eDEX_W.png) <br />
+
+**** :
 
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/eDEX.png) <br />
 
-![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/FM.png) <br />
+**** : 
 
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Lab_1.png) <br />
 
+**** : 
+
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Net.png) <br />
+
+**** : 
 
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Mon.png) <br />
 
+**** : 
+
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/System.png) <br />
+
+**** : 
 
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Tiles.png) <br />
 
+**** : 
+
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/TTY.png) <br />
 
+**** : 
+
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/.png) <br />
-
-
-
