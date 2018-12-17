@@ -40,6 +40,9 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 ![download](https://raw.githubusercontent.com/adi1090x/archlive/master/images/download.png) <br />
 
+Default Username And Password Is : *archlive* <br />
+Just enter the password as lightdm-mini-greeter is already configured with username, as it's single-user. <br />
+
 # TOUR
 
 **Appearance Overview**
