@@ -112,3 +112,19 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 ![](https://raw.githubusercontent.com/adi1090x/archlive/master/images/TTY.png) <br />
 
+## Naming My OS
+
+Such A PITA... So, first i though - "ARCH3", coz it's arch and use i3 as WM... NO!!! coz i is missing... <br />
+
+Alright, How about - "Archy", Coz arch+i = archy... NO!!! Weird. <br />
+
+Whatever... it's just *"ARCHLIVE"*
+
+## Few Points
+
+- You need to learn the i3 configs to fully operate it, like keybindings, windows tiling, etc.
+- You may need to modify polybar configs, like The BAT0 to BAT1 / wlan0 to wlp3s0... stuff like that.
+- I built it on a machine with intel pentium cpu & intel HD gpu so it have the intel video drivers.
+- There is only one person behind all this- ME, So appreciate it. it maybe not perfect or may not run on your machine.
+- This OS may not be for people who are beginners to linux, however i tried my best to make it simple and easy.
+- Well, That's it for now... try it, have fun.
