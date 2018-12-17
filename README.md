@@ -38,18 +38,20 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 # TOUR
 
-**Desktop**
+**Desktop** : That's the default desktop. it's i3-gaps WM with polybar and compton as compositing manager. <br />
 
-That's the default desktop. it's i3-gaps WM with polybar and compton as compositing manager. <br />
-
-*Polybar - TOP >* Arch icon (menu), i3-Workspace, skippy-xd, keyboard, battery, volume, network, clock, powermenu <br />
-*Polybar - BOTTOM >* mpd, filesystem, cpu, memory, temperature, updates, net-speed, ssid, volume & brightness bar <br />
+*Polybar - TOP >* Arch icon (menu), i3-Workspace, skippy-xd, keyboard, battery, volume, network, clock, powermenu. <br />
+*Polybar - BOTTOM >* mpd, filesystem, cpu, memory, temperature, updates, net-speed, ssid, volume & brightness bar. <br />
 
 ![Desktop](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Desktop.png) <br />
+
+**Menu** : There are tow type of menu, each with rofi... One With Icons, Other one is normal. both can be access with left click and  right click respectively on arch icon on polybar. Windows or Meta key is default Mod key of i3, so both can be access with M+d & M+S+d respectively with keyboard. please read the i3 config file for keybindings, there are a lot.
 
 ![Rofi_icon](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Rofi_Icon.png) <br />
 
 ![Rofi_list](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Rofi_List.png) <br />
+
+**Web Browser** : Like many other linux distros, firefox is the default browser. 
 
 ![Web](https://raw.githubusercontent.com/adi1090x/archlive/master/images/Web.png) <br />
 
