@@ -13,14 +13,14 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 ## Features
 
-**1** : Latest Dec 17, 2018 Updated
-**2** : Boots in just NN seconds
-**3** : Plymouth installed
-**4** : lightdm/lightdm-mini-greeter as Display Manager
-**5** : i3-gaps(highly configured, As can be seen) Window Manager
-**6** : Polybar as Panel
-**7** : Compton as Composite Manager
-**8** : Rofi For Menus & Networks
-**9** : Network Manager installed and configured
-**10** : Yay installed for AUR packages
+**1** : Latest Dec 17, 2018 Updated <br />
+**2** : Boots in just NN seconds <br />
+**3** : Plymouth installed <br />
+**4** : lightdm/lightdm-mini-greeter as Display Manager <br />
+**5** : i3-gaps(highly configured, As can be seen) Window Manager <br />
+**6** : Polybar as Panel <br />
+**7** : Compton as Composite Manager <br />
+**8** : Rofi For Menus & Networks <br />
+**9** : Network Manager installed and configured <br />
+**10** : Yay installed for AUR packages <br />
 **11** : 
