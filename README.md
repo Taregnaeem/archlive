@@ -3,7 +3,7 @@
 # Introduction
 
 Yeah, the weekend was pretty borring... So i grabbed the arch iso and started doing... my stuff. <br />
-As Result, i'm writing here the intro, like exactly what happend... i ended up creating a Arch based custom live linux distro, which is really awesome... (just appreciating myself 😜) <br />
+As Result, i'm writing here the intro, like exactly what happend... i ended up creating an Arch based custom live linux distro, which is really awesome... (just appreciating myself 😜) <br />
 
 Here's how it looks... [familiar](https://github.com/adi1090x/my_dotfiles/tree/master/previews/i3_wm), Right?... YES! But Now in an ISO, Live, For Everyone. <br />
 
