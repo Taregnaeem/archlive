@@ -13,7 +13,8 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 ## Features
 
-**1** : Latest December 17, 2018 updated <br />
+**0** : Latest December 17, 2018 updated <br />
+**1** : Latest Linux Kernel 4.19.8 <br />
 **2** : Boots to desktop in just 20 seconds <br />
 **3** : Plymouth installed / Arch-charge theme<br />
 **4** : xorg/xserver installed <br />
@@ -38,7 +39,7 @@ So, This custom iso is based on latest [arch linux](https://archlinux.org), Ofco
 
 # Download
 
-![download](https://raw.githubusercontent.com/adi1090x/archlive/master/images/download.png) <br />
+[![Download](https://raw.githubusercontent.com/adi1090x/archlive/master/images/download.png)](https://drive.google.com/open?id=1FLMZPSLCF-egGRJHQxdAT4Xz1XI64X3M) <br />
 
 Default *Username* And *Password* Is : ***archlive*** <br />
 
